@@ -3,24 +3,24 @@
 Project link - (https://lookerstudio.google.com/reporting/e65ec41e-acfd-4bba-995b-1cd5fa493aa4)
 
 
-# 🛒 D-Mart Sales Dashboard (Looker Studio)
+#  D-Mart Sales Dashboard (Looker Studio)
 
 This project showcases an interactive **D-Mart Sales Dashboard** developed using **Google Looker Studio** to analyze retail sales performance, customer activity, and regional business trends.
 The dashboard provides a comprehensive view of key metrics such as sales, profit, orders, and customer distribution, helping businesses monitor performance and make data-driven decisions.
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 The objective of this dashboard is to transform raw sales data into meaningful insights that help understand **regional sales performance, customer behavior, and delivery patterns**.
 
 ---
-📊 Dashboard Preview
+ Dashboard Preview
 <img width="1490" height="1079" alt="Screenshot 2026-03-07 124643" src="https://github.com/user-attachments/assets/e5e3f48a-423c-4dd8-8c76-38d1f1a20f90" />
 
 
 
-## 📊 Key Dashboard Features
+##  Key Dashboard Features
 
 ### Business KPIs
 
@@ -49,7 +49,7 @@ The objective of this dashboard is to transform raw sales data into meaningful i
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * Google Looker Studio
 * Data Visualization
@@ -57,7 +57,7 @@ The objective of this dashboard is to transform raw sales data into meaningful i
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 * Some regions contribute significantly higher sales compared to others.
 * Standard shipping modes dominate overall product deliveries.
